@@ -1,0 +1,5 @@
+.card-body {
+    flex: 1 1 auto;
+    padding: 1px 1px 10px 5px;
+    color: var(--bs-card-color);
+}
